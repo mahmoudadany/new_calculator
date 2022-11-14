@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">intent</string>
+    <string name="text2activity">hallo in two activity  </string>
+    <string name="text3activity">hallo in three activity</string>
+
+</resources>
